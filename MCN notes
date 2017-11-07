@@ -1,0 +1,13 @@
+YAML - YAML is not a Markup Language
+Markdown
+
+Here is some sample YAML
+title:title text
+subtitle: more text ina subtitle
+List:
+ - space and then a dash
+ - and then some text
+ - and another line
+ - with space, hyphen, text
+ another_attribute: "this has a colon: so I had to wrap in quotes"
+ 
